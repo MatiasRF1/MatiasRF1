@@ -2,7 +2,7 @@
 
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif"/>
-
+<h3>I'm a Computer Civil Engineering student at the Universidad Católica del Maule. Passionate about continuous learning and technology, I focus on enhancing my skills as a frontend and backend developer. Eager to contribute to the tech world, I am committed to growth and innovation in this field.</h3>
 ### *🧰 Languages and Tools*
 
 <div align="center">
