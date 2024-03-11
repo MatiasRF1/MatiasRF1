@@ -17,7 +17,7 @@
 </div>
 
 
-### *📲 How to reach me?*
+<h3>📲 How to reach me?</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mrevecof/">
