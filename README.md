@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias Reveco Fuentes</h1>
 
 
-<img style="margin-left: 20px;" align="right" alt="GIF" src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif"/>
+<img style="margin: 20px;" align="right" alt="GIF" src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif"/>
 <h4>I'm a Computer Civil Engineering student at the Universidad Católica del Maule. Passionate about continuous learning and technology, I focus on enhancing my skills as a frontend and backend developer. Eager to contribute to the tech world, I am committed to growth and innovation in this field.</h4>
 <h3>🧰 Languages and Tools</h3>
 
