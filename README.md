@@ -1,4 +1,4 @@
-## Matias Reveco Fuentes
+<h1 align="center">Hi 👋, I'm Matias Reveco Fuentes</h1>
 
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif"/>
@@ -20,10 +20,10 @@
 ### *📲 How to reach me?*
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rseguras/">
+  <a href="https://www.linkedin.com/in/mrevecof/">
     <img align="center" alt="Jugal Bhatt | Linkedin" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="mailto:rsegura.f1@gmail.com">
+  <a href="mailto:ma.revecofuentes@gmail.com">
     <img align="center" alt="Jugal Bhatt | Gmail" width="65px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>  
 </div>
